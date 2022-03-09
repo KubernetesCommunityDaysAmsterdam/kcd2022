@@ -8,6 +8,10 @@ Minutes of the bi-weekly meetings are stored publicly in [Google Docs](https://d
 
 We meet every other Thursday at 6pm CEST. This is the [zoom link](https://us02web.zoom.us/j/89339449238?pwd=M2tWNkswbFVtd0RZcmpPSFdyVDhaQT09) to join and discuss (passcode 429864)
 
+## Call for volunteers
+
+Join our team! Come to one of the office hours calls, introduce yourself and start picking out tasks from the [public project board](https://github.com/orgs/KubernetesCommunityDaysAmsterdam/projects/1/views/1).
+
 ## Project layout
 
     mkdocs.yml    # The configuration file.
